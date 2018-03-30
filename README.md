@@ -1,4 +1,4 @@
-# For more tips and tricks visit: http://linuxexplore.com
+# For more Linux tips and tricks visit: http://linuxexplore.com
 # tarcrypt
 Linux File encryption/decryption using openssl | password protected tar
 
@@ -10,7 +10,7 @@ openssl des3 -salt -in $FILENAME -out ${FILENAME}.des3
 To decrypt the file use the command:
 
 openssl des3 -d -salt -in ${FILENAME}.des3 -out ${FILENAME}
-You can also use my script ‘tarcrypt.sh’ to encrypt/decrypt files. This script is using tar to compress/decompress with encryption/decryption functionality.
+You can also use my script â€˜tarcrypt.shâ€™ to encrypt/decrypt files. This script is using tar to compress/decompress with encryption/decryption functionality.
 
 #!/bin/sh
 #
