@@ -2,6 +2,7 @@
 #
 # 'tarcrypt.sh' script can used to compress/decompress the data with encryption.
 #
+# For more tips and tricks visit: http://linuxexplore.com
 # This script is created & tested by Rahul Panwar.
 # WARNING!!! Use it at your own risk.
 # Please report the bugs or queries to panwar.rahul@gmail.com
